@@ -2,7 +2,7 @@
 Utilize activities from previous Modules
 Worked some of code in Google Colab for practice, then transferred info in VS Code
 Assisted by prompts from Google Colab
-Assisted by prompts from both Amazon Q and GitHub MS CoPilot
+Assisted by prompts frogitm both Amazon Q and GitHub MS CoPilot
 Verified and streamlined Code with ChatGPT
 
 # Questions and Answers
